@@ -1,0 +1,11 @@
+C:\Users\prokrus\Documents\GitHub\snake\snake\snake\bin\Debug\netcoreapp3.1\snake.exe
+C:\Users\prokrus\Documents\GitHub\snake\snake\snake\bin\Debug\netcoreapp3.1\snake.deps.json
+C:\Users\prokrus\Documents\GitHub\snake\snake\snake\bin\Debug\netcoreapp3.1\snake.runtimeconfig.json
+C:\Users\prokrus\Documents\GitHub\snake\snake\snake\bin\Debug\netcoreapp3.1\snake.runtimeconfig.dev.json
+C:\Users\prokrus\Documents\GitHub\snake\snake\snake\bin\Debug\netcoreapp3.1\snake.dll
+C:\Users\prokrus\Documents\GitHub\snake\snake\snake\bin\Debug\netcoreapp3.1\snake.pdb
+C:\Users\prokrus\Documents\GitHub\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.csprojAssemblyReference.cache
+C:\Users\prokrus\Documents\GitHub\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.AssemblyInfoInputs.cache
+C:\Users\prokrus\Documents\GitHub\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.AssemblyInfo.cs
+C:\Users\prokrus\Documents\GitHub\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.dll
+C:\Users\prokrus\Documents\GitHub\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.pdb
