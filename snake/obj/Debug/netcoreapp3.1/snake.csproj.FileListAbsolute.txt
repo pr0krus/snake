@@ -9,3 +9,14 @@ C:\Users\prokrus\Documents\GitHub\snake\snake\snake\obj\Debug\netcoreapp3.1\snak
 C:\Users\prokrus\Documents\GitHub\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.AssemblyInfo.cs
 C:\Users\prokrus\Documents\GitHub\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.dll
 C:\Users\prokrus\Documents\GitHub\snake\snake\snake\obj\Debug\netcoreapp3.1\snake.pdb
+C:\Users\User\Documents\Git\snake\obj\Debug\netcoreapp3.1\snake.csprojAssemblyReference.cache
+C:\Users\User\Documents\Git\snake\obj\Debug\netcoreapp3.1\snake.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Git\snake\obj\Debug\netcoreapp3.1\snake.AssemblyInfo.cs
+C:\Users\User\Documents\Git\snake\obj\Debug\netcoreapp3.1\snake.dll
+C:\Users\User\Documents\Git\snake\obj\Debug\netcoreapp3.1\snake.pdb
+C:\Users\User\Documents\Git\snake\bin\Debug\netcoreapp3.1\snake.exe
+C:\Users\User\Documents\Git\snake\bin\Debug\netcoreapp3.1\snake.deps.json
+C:\Users\User\Documents\Git\snake\bin\Debug\netcoreapp3.1\snake.runtimeconfig.json
+C:\Users\User\Documents\Git\snake\bin\Debug\netcoreapp3.1\snake.runtimeconfig.dev.json
+C:\Users\User\Documents\Git\snake\bin\Debug\netcoreapp3.1\snake.dll
+C:\Users\User\Documents\Git\snake\bin\Debug\netcoreapp3.1\snake.pdb
