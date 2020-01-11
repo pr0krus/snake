@@ -7,30 +7,15 @@ namespace snake
     {
         static void Main(string[] args)
         {
-            Point p1 = new Point(1,3,'*');
+            /*Point p1 = new Point(1,3,'*');
             
-            Point p2 = new Point(3,5,'#');
-            
-            Point p3 = new Point(7, 10, '@');
-            
-            Point p4 = new Point(11, 15, '%');
+            Point p2 = new Point(3,5,'#');*/
 
-            List<Point> pList = new List<Point>();
-            pList.Add(p1);
-            pList.Add(p2);
-            pList.Add(p3);
-            pList.Add(p4);
+            HorizontalLine line = new HorizontalLine(5,10,8,'+');
+            line.Draw();
 
-            foreach (Point i in pList)
-            {
-                i.Draw(i);
-
-            }
-            
-
-          
-            
-
+            VerticalLine liney = new VerticalLine(8,12,5,'+');
+            liney.Draw();
 
             Console.ReadLine();
         }
