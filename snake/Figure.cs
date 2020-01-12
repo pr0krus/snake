@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
+using System.Linq;
+using System.Threading.Tasks;
 namespace snake
 {
     class Figure
@@ -13,7 +14,6 @@ namespace snake
             foreach (Point p in pList)
             {
                 p.Draw(p);
-
             }
 
         }

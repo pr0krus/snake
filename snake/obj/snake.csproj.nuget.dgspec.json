@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\Git\\snake\\snake.csproj": {}
+    "C:\\Users\\prokrus\\Documents\\GitHub\\snake\\snake\\snake.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\Git\\snake\\snake.csproj": {
+    "C:\\Users\\prokrus\\Documents\\GitHub\\snake\\snake\\snake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\Git\\snake\\snake.csproj",
+        "projectUniqueName": "C:\\Users\\prokrus\\Documents\\GitHub\\snake\\snake\\snake.csproj",
         "projectName": "snake",
-        "projectPath": "C:\\Users\\User\\Documents\\Git\\snake\\snake.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\Git\\snake\\obj\\",
+        "projectPath": "C:\\Users\\prokrus\\Documents\\GitHub\\snake\\snake\\snake.csproj",
+        "packagesPath": "C:\\Users\\prokrus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prokrus\\Documents\\GitHub\\snake\\snake\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\prokrus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

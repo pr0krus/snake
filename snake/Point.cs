@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace snake
 {
@@ -22,6 +24,7 @@ namespace snake
         {
             x = p.x;
             y = p.y;
+            sym = p.sym;
         }
 
         public void Move (int offset, Direction direction)
