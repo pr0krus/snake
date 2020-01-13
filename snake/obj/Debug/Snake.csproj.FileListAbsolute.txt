@@ -1,0 +1,6 @@
+C:\Users\prokrus\Desktop\snake-lesson-12-SnakeEat\snake-lesson-12-SnakeEat\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\prokrus\Desktop\snake-lesson-12-SnakeEat\snake-lesson-12-SnakeEat\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\prokrus\Desktop\snake-lesson-12-SnakeEat\snake-lesson-12-SnakeEat\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\prokrus\Desktop\snake-lesson-12-SnakeEat\snake-lesson-12-SnakeEat\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+C:\Users\prokrus\Desktop\snake-lesson-12-SnakeEat\snake-lesson-12-SnakeEat\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\prokrus\Desktop\snake-lesson-12-SnakeEat\snake-lesson-12-SnakeEat\Snake\Snake\obj\Debug\Snake.pdb
